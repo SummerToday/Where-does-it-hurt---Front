@@ -15,6 +15,19 @@
 
 <br>
 
+## 팀원
+
+- 20165205 박광범 - DataBase
+
+- 20165183 권오진 - Front End (Web)
+
+- 20195125 김인경 - Front End (APP)
+
+- 20175129 김용범 - Full Stack
+
+
+<br>
+
 ## 개발 개요 
 
   - 백엔드: Node.js
@@ -50,6 +63,8 @@
   - 환자 개인 일정 확인 기능
  
   - 입원 생활 안내 기능
+ 
+  환자의 모든 요청 사항은 간호사용 웹에 차례대로 등록되어 열람이 가능하다.
 
 <br>
 
@@ -61,6 +76,12 @@
 > ![image](https://github.com/user-attachments/assets/83ab1ac9-d60e-48b8-aece-4d832e4f6c56)
 
 > ![image](https://github.com/user-attachments/assets/38e28d78-2aa9-440d-8a3f-9fe1690797cf)
+
+<br>
+
+## 2022 SCH AI·SW Festival 우수상 수상
+> ![image](https://github.com/user-attachments/assets/5e8d6ae1-5a37-44f4-99fd-88fa4c71783f)
+
 
 
 
